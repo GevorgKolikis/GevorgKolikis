@@ -29,7 +29,7 @@
 <br>
 <p align="center">
  <a href="#" alt="Most used languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GevorgKolikisn&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GevorgKolikis&theme=dracula&layout=compact" />
  </a>
  <br><br>
 </p>
